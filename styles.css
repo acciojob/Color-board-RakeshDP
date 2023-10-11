@@ -22,5 +22,5 @@ body {
 }
 
 .square:hover {
-    background-color: #3498db; /* Color to change to on hover */
+    background-color: rgb(29, 29, 29); /* Color to change to on hover */
 }
